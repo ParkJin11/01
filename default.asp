@@ -47,6 +47,7 @@
 </head>
 <% subSiteManager_Set() %>
 
+추가함
 
 <body LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
